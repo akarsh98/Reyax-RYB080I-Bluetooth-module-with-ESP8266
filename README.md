@@ -10,11 +10,11 @@ First, we will understand the module alone and try to use it directly, then we w
 
 At the end of the tutorial, we will be able to use the RYB080l module standalone and with micro like esp8266.
 
-You must check out [PCBGOGO](https://www.pcbgogo.com/) for ordering PCBs online for cheap!
+You must check out [PCBGOGO](https://www.pcbgogo.com/y) for ordering PCBs online for cheap!
 
 You get 10 good quality PCBs manufactured and shipped to your doorstep for 5$ and some shipping. You will also get a discount on shipping on your first order.
 
-[PCBGOGO](https://www.pcbgogo.com/) has the capability of PCB assembly and stencil manufacture as well as keeping good quality standards.
+[PCBGOGO](https://www.pcbgogo.com/y) has the capability of PCB assembly and stencil manufacture as well as keeping good quality standards.
 
 Do check them out if you need to get PCBs manufactured or assembled.
 
